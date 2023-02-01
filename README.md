@@ -34,8 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Dev.finance é um app para ajudar no controle com as finanças.
 
-- [Visite o projeto online](https://caiosena.github.io/
-Dev.finance)
+- [Visite o projeto online](https://caiosena.github.io/Dev.finance/)
 
 ## 🔖 Layout
 
